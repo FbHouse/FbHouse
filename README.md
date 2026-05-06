@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="assets/fbhouse-reaper.png" alt="FbHouse offensive security avatar" width="260">
+      <img src="[assets/fbhouse-reaper.png](https://avatars.githubusercontent.com/u/282263068?s=400&u=669d8db47f03c13b32fdb86e9f04376799c84f14&v=4)" alt="FbHouse offensive security avatar" width="260">
     </td>
     <td width="65%">
       <h2>About Me</h2>
