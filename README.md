@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="FbHouse red dragon banner" width="100%">
+  <img src="https://br.pinterest.com/josebruno1/dragon/" alt="FbHouse red dragon banner" width="50%">
 </p>
 
 <h1 align="center">FbHouse</h1>
