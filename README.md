@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://br.pinterest.com/pin/745275438345742947/" target="_blank">
-    <img src="assets/cover-1920x1080.jpg" alt="FbHouse black dragon banner" width="100%">
+    <img src="https://files.catbox.moe/i7udiu.jpg" alt="FbHouse black dragon banner" width="100%">
   </a>
 </p>
 
