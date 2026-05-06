@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://br.pinterest.com/pin/745275438345742947/" target="_blank">
-    <img src="https://files.catbox.moe/i7udiu.jpg" alt="FbHouse black dragon banner" width="100%">
-  </a>
+  <img src="https://files.catbox.moe/i7udiu.jpg" alt="FbHouse black dragon banner" width="100%">
 </p>
 
 <h1 align="center">FbHouse</h1>
@@ -100,14 +98,12 @@ Mindset     Learn deeply, test responsibly, document clearly
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHCmftccXl7sw/company-logo_200_200/company-logo_200_200/0/1630652901592/desec_security_logo?e=2147483647&v=beta&t=JG8D-NNPoVOROyaEqRCSqWCK0JqVhJ7wZH1HgdqVqvY" alt="DESEC Security logo" width="90">
       <h3>DCPT</h3>
       <p><strong>Status:</strong> In Progress</p>
       <p>Offensive security, penetration testing methodology, exploitation, privilege escalation, and professional reporting.</p>
       <img src="https://img.shields.io/badge/DCPT-In%20Progress-FF1E1E?style=for-the-badge" alt="DCPT in progress">
     </td>
     <td width="50%" align="center">
-      <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ badge" width="90">
       <h3>CompTIA Network+</h3>
       <p><strong>Status:</strong> In Progress</p>
       <p>Networking fundamentals, protocols, infrastructure, troubleshooting, security concepts, and operational networking skills.</p>
