@@ -31,8 +31,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FbHouse&style=for-the-badge&color=red" alt="Profile views">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" alt="Focus Offensive Security">
-  <img src="https://img.shields.io/badge/Studying-DCPT%20%7C%20Network%2B-black?style=for-the-badge" alt="Studying DCPT and Network+">
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHCmftccXl7sw/company-logo_200_200/company-logo_200_200/0/1630652901592/desec_security_logo?e=2147483647&v=beta&t=JG8D-NNPoVOROyaEqRCSqWCK0JqVhJ7wZH1HgdqVqvY" alt="DESEC Security logo" width="32">
+      <br>
+      <strong>Studying DCPT</strong>
+    </td>
+    <td align="center" width="220">
+      <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ badge" width="32">
+      <br>
+      <strong>Studying Network+</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
