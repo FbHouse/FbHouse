@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://br.pinterest.com/pin/745275438345742947/" target="_blank">
-    <img src="https://i.pinimg.com/originals/d0/1d/c5/d01dc59cf61fc9add46162e4dc138ee8.jpg" alt="FbHouse red dragon banner" width="100%">
+    <img src="assets/cover-1920x1080.jpg" alt="FbHouse black dragon banner" width="100%">
   </a>
 </p>
 
@@ -147,5 +147,5 @@ These studies strengthen both my offensive security practice and the networking 
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/1*bdBbe4O9lz021nblGNPSfQ.jpeg" alt="Offensive security icon" width="64">
+  <img src="https://miro.medium.com/1*bdBbe4O9lz021nblGNPSfQ.jpeg" alt="Offensive security icon" width="20" height="20">
 </p>
