@@ -128,5 +128,6 @@ I am currently studying for the **DCPT** and **CompTIA Network+** certifications
 <p align="center">
   <strong>FbHouse</strong><br>
   Offensive security in progress, one lab at a time.
+  <br>
   <img src="https://medium.com/@karandarjishack/prologue-to-red-hat-hackers-in-cyber-security-9e58af812d6b">
 </p>
