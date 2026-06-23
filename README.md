@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/i7udiu.jpg" alt="FbHouse black dragon banner" width="100%">
-</p>
-
 <h1 align="center">FbHouse</h1>
 
 <h3 align="center">
@@ -51,7 +47,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/282263068?s=400&u=669d8db47f03c13b32fdb86e9f04376799c84f14&v=4" alt="FbHouse offensive security avatar" width="260">
+      <img src="https://avatars.githubusercontent.com/u/282263068?s=400&u=35a248acb2255fec714f308e9cfb046cc33dafb8&v=4" alt="FbHouse offensive security avatar" width="260">
     </td>
     <td width="65%">
       <h2>About Me</h2>
