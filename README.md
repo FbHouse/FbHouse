@@ -20,6 +20,9 @@
   <a href="https://YOUR-HACK-IN-CARIRI-LINK" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20in%20Cariri-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FF1E1E" alt="Hack in Cariri">
   </a>
+  <a href="http://ctf.chapeudepalhahacker.club/">
+    <img src="/"> 
+  </a>
 </p>
 
 <p align="center">
